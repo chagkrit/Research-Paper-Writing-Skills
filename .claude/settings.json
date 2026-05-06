@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "research-paper-writing-skills": {
+      "source": {
+        "source": "github",
+        "repo": "chagkrit/Research-Paper-Writing-Skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "research-paper-writing@research-paper-writing-skills": true
+  }
+}
