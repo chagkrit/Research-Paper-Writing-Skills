@@ -1,0 +1,23 @@
+{
+  "name": "research-paper-writing-skills",
+  "version": "1.0.0",
+  "description": "Research paper writing skill for drafting, revising, polishing, and reviewer-facing self-review of academic papers.",
+  "author": {
+    "name": "Master-cai",
+    "url": "https://github.com/Master-cai"
+  },
+  "homepage": "https://github.com/chagkrit/Research-Paper-Writing-Skills",
+  "repository": "https://github.com/chagkrit/Research-Paper-Writing-Skills",
+  "license": "MIT",
+  "keywords": [
+    "academic",
+    "research",
+    "paper-writing",
+    "writing",
+    "peer-review",
+    "ml",
+    "cv",
+    "nlp"
+  ],
+  "skills": "./research-paper-writing/"
+}

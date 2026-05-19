@@ -1,0 +1,21 @@
+{
+  "name": "research-paper-writing-skills",
+  "owner": {
+    "name": "Chagkrit",
+    "url": "https://github.com/chagkrit"
+  },
+  "metadata": {
+    "description": "Claude Code marketplace for research paper writing skills based on Master-cai/Research-Paper-Writing-Skills.",
+    "homepage": "https://github.com/chagkrit/Research-Paper-Writing-Skills",
+    "upstream": "https://github.com/Master-cai/Research-Paper-Writing-Skills"
+  },
+  "plugins": [
+    {
+      "name": "research-paper-writing-skills",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Research paper writing skill for drafting, revising, polishing, and reviewer-facing self-review of academic papers.",
+      "license": "MIT"
+    }
+  ]
+}

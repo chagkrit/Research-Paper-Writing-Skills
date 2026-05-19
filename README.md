@@ -28,6 +28,16 @@ Typical use cases:
 
 ## Installation
 
+### Claude Code Marketplace
+
+```text
+/plugin marketplace add chagkrit/Research-Paper-Writing-Skills
+/plugin marketplace update research-paper-writing-skills
+/plugin install research-paper-writing-skills@research-paper-writing-skills
+```
+
+After installation, use the skill as `research-paper-writing` from the installed plugin.
+
 Assume you are in the repository root.
 
 ### 1) Codex
